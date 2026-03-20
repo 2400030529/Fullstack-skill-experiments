@@ -1,0 +1,5 @@
+This is Experiment 1: Git Version Control.
+We are learning how developers create files, make changes,
+simulate branches, and merge changes manually.
+Feature update added to main.java
+Bug fix applied to main.java
